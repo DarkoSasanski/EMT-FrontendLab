@@ -1,11 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="3e2de044-541e-40ea-8b80-176b3fb514b4" name="Changes" comment="" />
+    <list default="true" id="3e2de044-541e-40ea-8b80-176b3fb514b4" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Components/Authors/AddAuthor/addAuthor.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/Authors/AuthorsList/authors.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/Authors/EditAuthor/editAuthor.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/Books/AddBook/addBook.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/Books/BooksList/booksList.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/Books/BooksTerm/booksTerm.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/Books/EditBook/editBook.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/Categories/categories.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/Countries/AddCountry/addCountry.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/Countries/CountriesList/countries.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/Countries/EditCountry/editCountry.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/Header/header.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/custom-axios/axios.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/repository/libraryRepository.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/App/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/App/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -14,6 +46,9 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2OVx5VVPVsYjWo7YeSaiKHkX2MQ" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="autoscrollFromSource" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -25,11 +60,21 @@
     "WebServerToolWindowFactoryState": "false",
     "last_opened_file_path": "C:/Users/DARKO/Desktop/FINKI/VI semestar/Elektronska i mobilna trgovija/Lab/EMT-FrontendLab",
     "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "ts.external.directory.path": "C:\\Program Files\\JetBrains\\IntelliJ IDEA 2021.2.2\\plugins\\javascript-impl\\jsLanguageServicesImpl\\external",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\DARKO\Desktop\FINKI\VI semestar\Elektronska i mobilna trgovija\Lab\EMT-FrontendLab\labfrontend\src\Components\Authors\aurhorsList" />
+      <recent name="C:\Users\DARKO\Desktop\FINKI\VI semestar\Elektronska i mobilna trgovija\Lab\EMT-FrontendLab\labfrontend\src\Components\Countries\CountriesList" />
+      <recent name="C:\Users\DARKO\Desktop\FINKI\VI semestar\Elektronska i mobilna trgovija\Lab\EMT-FrontendLab\labfrontend\src\Components\App" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -39,10 +84,22 @@
       <option name="presentableId" value="Default" />
       <updated>1681659367347</updated>
       <workItem from="1681659368706" duration="26000" />
+      <workItem from="1681659462065" duration="22017000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

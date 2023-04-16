@@ -1,2 +1,2 @@
-# EMT-FrontendLab
-Repository for E-Commerce laboratory excercises
+## Лабораториски вежба по ЕМТ
+Дарко Сасански 201065

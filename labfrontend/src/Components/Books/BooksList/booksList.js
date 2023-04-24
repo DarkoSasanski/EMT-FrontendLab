@@ -23,10 +23,12 @@ class BooksList extends Component
        }))
     }
 
-    handlePageClick(e)
+    handlePageClick=(e) =>
     {
+        let selected = e.selected
+        console.log(selected)
         this.setState({
-            page:e.selected
+            page: selected
         })
     }
 
@@ -36,7 +38,6 @@ class BooksList extends Component
         const nextPageOffset = this.state.size + this.state.page*this.state.size
         const pages = Math.ceil(this.props.books.length / this.state.size)
         const books = this.getBooks(offset, nextPageOffset)
-
         return(
             <div className={"container"}>
                 <h2 className={"text-center"}>Books</h2>

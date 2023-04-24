@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3e2de044-541e-40ea-8b80-176b3fb514b4" name="Changes" comment="">
+    <list default="true" id="3e2de044-541e-40ea-8b80-176b3fb514b4" name="Changes" comment="Fixed pagination error">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/Books/BooksList/booksList.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Books/BooksList/booksList.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/App/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/App/App.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,8 +66,16 @@
       <updated>1681659367347</updated>
       <workItem from="1681659368706" duration="26000" />
       <workItem from="1681659462065" duration="22368000" />
-      <workItem from="1682329120807" duration="1632000" />
+      <workItem from="1682329120807" duration="2191000" />
     </task>
+    <task id="LOCAL-00001" summary="Fixed pagination error">
+      <created>1682330829446</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1682330829446</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -83,5 +91,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Fixed pagination error" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fixed pagination error" />
   </component>
 </project>

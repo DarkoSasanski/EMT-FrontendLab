@@ -150,6 +150,7 @@ class App extends Component
   }
   deleteBook=(id)=>{
     LibraryService.deleteBook(id).then(()=>this.loadBooks())
+    window.location.reload();
   }
   getBook=(id)=>{
     LibraryService.fetchBook(id).then((data)=>{
